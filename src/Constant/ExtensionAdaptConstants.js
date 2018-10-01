@@ -1,0 +1,14 @@
+import keyMirror from 'key-mirror';
+
+module.exports = keyMirror({
+	CHECK_EXT_ADAPT: null,
+	SEND_DATA_EXT_ADAPT: null,
+	SEND_DATA_SUCCESS_EXT_ADAPT: null,
+	SEND_DATA_ERROR_EXT_ADAPT: null,
+	REJECT_STATUS_EXT_ADAPT: null,
+	GET_DATA_SUCCESS_EXT_ADAPT: null,
+	GET_DATA_ERROR_EXT_ADAPT: null,
+	UPDATE_ITEM_EXT_ADAPT: null,
+	UPDATE_REASON_EXT_ADAPT: null,
+	UPDATE_DATE_EXT_ADAPT: null
+});

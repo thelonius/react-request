@@ -1,0 +1,15 @@
+import keyMirror from 'key-mirror';
+
+module.exports = keyMirror({
+	POST_DATA_ERROR: null,
+	ACTION_SUCCESS: null,
+	CHANGE_WEB_NAME_PART_WEB: null,
+	CHANGE_START_TIME_PART_WEB: null,
+	CHANGE_END_TIME_PART_WEB: null,
+	CHANGE_TUTOR_PART_WEB: null,
+	CHANGE_NUMBER_PART_WEB: null,
+	UPDATE_START_DATE_PART_WEB: null,
+	CHANGE_VIDEO_PART_WEB: null,
+	CHANGE_CHAT_PART_WEB: null,
+	REJECT_STATUS_PART_WEB: null
+});

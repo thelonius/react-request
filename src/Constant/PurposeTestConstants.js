@@ -1,0 +1,14 @@
+import keyMirror from 'key-mirror';
+
+module.exports = keyMirror({
+	GET_DATA_ERROR_PURP_TEST: null,
+	GET_TESTS_SUCCESS_PURP_TEST: null,
+	SELECT_TESTS_PURP_TEST: null,
+	GET_EVENTS_SUCCESS_PURP_TEST: null,
+	SELECT_EVENTS_PURP_TEST: null,
+	CHANGE_DATE_PURP_TEST: null,
+	GET_COLLABS_SUCCESS_PURP_TEST: null,
+	SELECT_COLLABS_PURP_TEST: null,
+	SUBMIT_PURP_TEST: null,
+	REJECT_STATUS_PURP_TEST: null
+});

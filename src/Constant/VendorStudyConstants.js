@@ -1,0 +1,21 @@
+import keyMirror from 'key-mirror';
+
+module.exports = keyMirror({
+	CHECK_VEN: null,
+	SEND_DATA_VEN: null,
+	SEND_DATA_SUCCESS_VEN: null,
+	SEND_DATA_ERROR_VEN: null,
+	REJECT_STATUS_VEN: null,
+	UPDATE_EVENT_NAME_VEN: null,
+	UPDATE_START_DATE_VEN: null,
+	UPDATE_FORM_VEN: null,
+	UPDATE_DIVISION_VEN: null,
+	UPDATE_SUBDIVISION_VEN: null,
+	UPDATE_MANAGERS_VEN: null,
+	REJECT_DATA_VEN: null,
+	UPDATE_PAYLOAD_VEN: null,
+	UPDATE_VENDOR_NAME_VEN: null,
+	UPDATE_REASON_VEN: null,
+	UPDATE_TIME_VEN: null,
+	UPDATE_TEST_VEN: null
+});
